@@ -2,7 +2,7 @@
 
 ### 1. Installation
 
-### For run this project, you will need to have the following tools installed on your machine:
+For run this project, you will need to have the following tools installed on your machine:
 
 - [Python](https://Python.org)
 
