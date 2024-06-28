@@ -1,6 +1,6 @@
 # README
 
-# 1. Installation
+### 1. Installation
 
 ## For run this project, you will need to have the following tools installed on your machine:
 
