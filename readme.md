@@ -1,10 +1,16 @@
 # README
 
-### 1. Run the Server
+# 1. Installation
+
+## For run this project, you will need to have the following tools installed on your machine:
+
+- [Python](https://Python.org)
+
+### 2. Run the Server
 
 Run the server by executing the command `python server.py` in one terminal window.
 
-### 2. Run the Client
+### 3. Run the Client
 
 Run the client by executing the command `python client.py` in another terminal window.
 
